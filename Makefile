@@ -1,7 +1,7 @@
 include ./arch
 
 
-OBJ		= nqueens.o
+OBJ	= nqueens.o
 OBJ1	= nqueens-2.o
 OBJ2	= nqueens-p1.o
 OBJ3	= nqueens-p2.o

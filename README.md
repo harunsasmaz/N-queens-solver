@@ -4,6 +4,7 @@ OpenMP task parallelism implementation of N-queens problem.
 You can see my results and hardware in file "results.out
 
 First: call "make" command on your shell to create executables and object files.
+Then, you can run submit.sh script to test the program.
 
 Part 1:
 
